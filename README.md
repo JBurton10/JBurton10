@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome!
+## This is where you can find links to all of the projects I have worked on to further my professional career.
+## Here are some links to my top projects:
+##
+##
+## And here are some projects that I have contributed to
 
 <!--
 **JBurton10/JBurton10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
